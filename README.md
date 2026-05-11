@@ -2,6 +2,8 @@
 
 Site da **Rebeca Ferreira Confeitaria**, confeitaria artesanal especializada em bolos personalizados, doces finos e kits para presente.
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f2e20728-002e-4eab-8113-cf0697509af2" />
+
 ---
 
 ## O que é esse projeto?
